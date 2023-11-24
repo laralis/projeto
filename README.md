@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> DevLinks 🎉 </h1>
  <h2 align="center"><a href="https://laralis.github.io/projeto/">Visualizar a página clicando aqui!</a></h2>
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
